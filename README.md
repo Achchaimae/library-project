@@ -3,7 +3,3 @@ languages
 * php
 * css
 * html
-
-``` py
-print("hello world")
-```
